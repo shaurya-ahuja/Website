@@ -1,3 +1,3 @@
 superuser :
-username: shaurya
-password: abcd@1234
+username: #
+password: #
